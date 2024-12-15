@@ -1,7 +1,8 @@
 
 # Hi 👋, I'm Penzo pm</h1>
 <h3>Hi welcome to PENZO PM Ethical hacking tutorials‚ cybersecurity tips‚ and tech insights Unlocking the world of cybersecurity and digital exploration, one code at a time. Ethical hacking is a necessary evil, as it helps us identify vulnerabilities before malicious hackers can exploit them. Hacking is not just about breaking into systems; it's about understanding how they work and how to make them more secure.</h3>
-<image align="right"alt="coding" width="400" src="https://www.google.com/imgres?q=hacker%20nostalgic%20animation%20gif&imgurl=https%3A%2F%2Fmedia.tenor.com%2F4uHiI_EyE94AAAAM%2Fdance-hacker-dance.gif&imgrefurl=https%3A%2F%2Ftenor.com%2Fsearch%2Fhacking-animation-gifs&docid=DB1CfpjmjHZb8M&tbnid=PACAaBjqELe1NM&vet=12ahUKEwj6zeOMuamKAxUPyDgGHcQmGKUQM3oECCUQAA..i&w=220&h=220&hcb=2&ved=2ahUKEwj6zeOMuamKAxUPyDgGHcQmGKUQM3oECCUQAA">  
+<image align="right"alt="coding" width="400" src="![17342549648107645112263987389317](https://github.com/user-attachments/assets/3936840c-e069-483a-8e8e-045f4cc4e5cd)
+">  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=penzopm&label=Profile%20views&color=0e75b6&style=flat" alt="penzopm" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=penzopm" alt="penzopm" /></a> </p>
