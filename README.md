@@ -1,8 +1,7 @@
 
 # Hi 👋, I'm Penzo pm</h1>
 <h3>Hi welcome to PENZO PM Ethical hacking tutorials‚ cybersecurity tips‚ and tech insights Unlocking the world of cybersecurity and digital exploration, one code at a time. Ethical hacking is a necessary evil, as it helps us identify vulnerabilities before malicious hackers can exploit them. Hacking is not just about breaking into systems; it's about understanding how they work and how to make them more secure.</h3>
-<image align="right"alt="coding" width="400" src="![17342549648107645112263987389317](https://github.com/user-attachments/assets/3936840c-e069-483a-8e8e-045f4cc4e5cd)
-">  
+<image align="right"alt="coding" width="400" src="(https://github.com/user-attachments/assets/3936840c-e069-483a-8e8e-045f4cc4e5cd)">  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=penzopm&label=Profile%20views&color=0e75b6&style=flat" alt="penzopm" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=penzopm" alt="penzopm" /></a> </p>
