@@ -1,6 +1,6 @@
-## Hi there 👋
-<h1 align="center">Hi 👋, I'm Penzo pm</h1>
-<h3 align="center">Hi welcome to PENZO PM Ethical hacking tutorials‚ cybersecurity tips‚ and tech insights Unlocking the world of cybersecurity and digital exploration, one code at a time. Ethical hacking is a necessary evil, as it helps us identify vulnerabilities before malicious hackers can exploit them. Hacking is not just about breaking into systems; it's about understanding how they work and how to make them more secure.</h3>
+
+# Hi 👋, I'm Penzo pm</h1>
+<h3>Hi welcome to PENZO PM Ethical hacking tutorials‚ cybersecurity tips‚ and tech insights Unlocking the world of cybersecurity and digital exploration, one code at a time. Ethical hacking is a necessary evil, as it helps us identify vulnerabilities before malicious hackers can exploit them. Hacking is not just about breaking into systems; it's about understanding how they work and how to make them more secure.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=penzopm&label=Profile%20views&color=0e75b6&style=flat" alt="penzopm" /> </p>
 
